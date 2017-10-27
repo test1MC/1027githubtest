@@ -1,0 +1,1 @@
+define({'Article':[3,4,5],});
